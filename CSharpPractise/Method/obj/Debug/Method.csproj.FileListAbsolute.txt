@@ -1,0 +1,6 @@
+F:\AspDotNetWebApps\CSharpPractise\Method\bin\Debug\Method.exe.config
+F:\AspDotNetWebApps\CSharpPractise\Method\bin\Debug\Method.exe
+F:\AspDotNetWebApps\CSharpPractise\Method\bin\Debug\Method.pdb
+F:\AspDotNetWebApps\CSharpPractise\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+F:\AspDotNetWebApps\CSharpPractise\Method\obj\Debug\Method.exe
+F:\AspDotNetWebApps\CSharpPractise\Method\obj\Debug\Method.pdb

@@ -1,0 +1,6 @@
+F:\AspDotNetWebApps\Chapter1\TestHello\bin\Debug\TestHello.exe.config
+F:\AspDotNetWebApps\Chapter1\TestHello\bin\Debug\TestHello.exe
+F:\AspDotNetWebApps\Chapter1\TestHello\bin\Debug\TestHello.pdb
+F:\AspDotNetWebApps\Chapter1\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+F:\AspDotNetWebApps\Chapter1\TestHello\obj\Debug\TestHello.exe
+F:\AspDotNetWebApps\Chapter1\TestHello\obj\Debug\TestHello.pdb

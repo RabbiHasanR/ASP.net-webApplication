@@ -1,0 +1,6 @@
+F:\AspDotNetWebApps\CSharpPractise\loop\bin\Debug\loop.exe.config
+F:\AspDotNetWebApps\CSharpPractise\loop\bin\Debug\loop.exe
+F:\AspDotNetWebApps\CSharpPractise\loop\bin\Debug\loop.pdb
+F:\AspDotNetWebApps\CSharpPractise\loop\obj\Debug\loop.csprojResolveAssemblyReference.cache
+F:\AspDotNetWebApps\CSharpPractise\loop\obj\Debug\loop.exe
+F:\AspDotNetWebApps\CSharpPractise\loop\obj\Debug\loop.pdb
